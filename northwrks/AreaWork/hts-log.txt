@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Jan 2023 21:37:52 at https://areaworks.com.tr +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Px%s%u%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://areaworks.com.tr -O1 "C:\Areaw\AreaWork" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:38:00	Error: 	"Not Found" (404) at link https://areaworks.com.tr/assets/img/apple-touch-icon.png (from https://areaworks.com.tr/)
+21:38:10	Warning: 	Link https://areaworks.com.tr/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 54 links scanned, 52 files written (9233719 bytes overall) [5843213 bytes received at 265600 bytes/sec], 5152830 bytes transferred using HTTP compression in 34 files, ratio 33%, 13.5 requests per connection
+(1 errors, 1 warnings, 0 messages)
